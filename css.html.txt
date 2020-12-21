@@ -15,4 +15,3 @@ img{
     /*extra ruimte*/
     padding: 10px;
 }
-© 2020 GitHub, Inc.
